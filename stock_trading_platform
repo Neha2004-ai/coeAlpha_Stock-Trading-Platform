@@ -1,0 +1,88 @@
+# 📈 Stock Trading Platform
+
+### CodeAlpha Java Programming Internship – Task 2
+
+A console-based **Stock Trading Platform** developed using Java and Object-Oriented Programming (OOP). This application simulates a basic stock market where users can buy and sell stocks, manage their portfolios, and track their investment performance.
+
+## 📌 About the Project
+
+The Stock Trading Platform is designed to provide a simple simulation of stock trading.
+
+Users can view available stocks, purchase shares, sell owned shares, check their portfolio value, and track profit or loss.
+
+This project was developed as part of my Java Programming Internship at **CodeAlpha**.
+
+## ✨ Features
+
+- 📊 **Market Data:** Display available stocks and their prices.
+- 🛒 **Buy Stocks:** Purchase stocks using the available account balance.
+- 💰 **Sell Stocks:** Sell owned shares and receive the selling amount.
+- 📁 **Portfolio Management:** View stock holdings and quantities.
+- 📈 **Performance Tracking:** Calculate total portfolio value and profit or loss.
+- 📜 **Transaction History:** View all buying and selling transactions.
+- 🔄 **Update Stock Prices:** Simulate changes in market prices.
+- ✅ **Input Validation:** Handle invalid stock symbols and quantities.
+
+## 🛠️ Technologies Used
+
+- Java
+- Object-Oriented Programming (OOP)
+- ArrayList
+- Scanner Class
+- Constructors and Methods
+- Loops and Conditional Statements
+
+## 📂 Project Structure
+
+```text
+CodeAlpha_StockTradingPlatform/
+│
+├── StockTradingPlatform.java
+│
+└── README.md
+```
+
+## 🚀 How to Run the Project
+
+### Step 1: Clone the Repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
+```
+
+### Step 2: Open the Project Folder
+
+```bash
+cd CodeAlpha_StockTradingPlatform
+```
+
+### Step 3: Compile the Java Program
+
+```bash
+javac StockTradingPlatform.java
+```
+
+### Step 4: Run the Application
+
+```bash
+java StockTradingPlatform
+```
+
+## 💻 Application Menu
+
+```text
+===== STOCK TRADING PLATFORM =====
+
+1. Display Stock Market
+2. Buy Stocks
+3. Sell Stocks
+4. View My Portfolio
+5. Portfolio Performance
+6. Transaction History
+7. Update Stock Price
+8. Exit
+
+Enter your choice:
+```
+
+## 💵
